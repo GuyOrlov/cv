@@ -2,6 +2,9 @@
 
 #### Technical Skills: Python, SQL, Excel, Google Sheets, Power BI, and Tableau 👩‍💻
 
+## About Me
+I am studying an apprenticeship NVQ Level 4 Data Analyst course with BPP. This is helping me hone my skills to become a Data Analyst. I excel in data visualisation, data cleaning, crafting impactful dashboards, and using colours and graphics effectively with Microsoft Excel, MS Power BI, Canva, MS PowerPoint, and Figma. My expertise spans disability, accessibility, NHS, and football data. If you're looking to turn numbers into compelling visuals, explore my portfolio and connect with me at guy.orlov@gmail.com for assistance.
+
 ## Education
 - BSc., Computing Visualisation | Sheffield Hallam (_July 2009_)								       		
 
