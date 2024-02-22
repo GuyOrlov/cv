@@ -1,6 +1,6 @@
 # Data Analyst 
 
-#### Technical Skills: Python, SQL
+#### Technical Skills: Python, SQL, Excel, Google Sheets, Power BI, and Tableau 👩‍💻
 
 ## Education
 - BSc., Computing Visualisation | Sheffield Hallam (_July 2009_)								       		
