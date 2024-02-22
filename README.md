@@ -6,6 +6,8 @@
 I am studying an apprenticeship NVQ Level 4 Data Analyst course with BPP. This is helping me hone my skills to become a Data Analyst. I excel in data visualisation, data cleaning, crafting impactful dashboards, and using colours and graphics effectively with Microsoft Excel, MS Power BI, Canva, MS PowerPoint, and Figma. My expertise spans disability, accessibility, NHS, and football data. If you're looking to turn numbers into compelling visuals, explore my portfolio and connect with me at guy.orlov@gmail.com for assistance.
 
 ## Education
+- NVQ Level 3, Data Technician Apprenticeship | BPP (_November 2023_)
+- Google Data Analytics Professional Certificate | Coursera (_November 2023_)
 - BSc., Computing Visualisation | Sheffield Hallam (_July 2009_)								       		
 
 ## Work Experience
