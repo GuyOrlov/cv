@@ -1,9 +1,15 @@
 # Data Analyst 
 
-#### Technical Skills: Python, SQL, Excel, Google Sheets, Power BI, and Tableau 👩‍💻
+#### Technical Skills: 
+Data Analysis & Visualisation: MS Power BI, Tableau, Google Data Studio Looker
+Programming: SQL, R, Python, CSS, HTML
+Design: Figma, Canva
+Data Preparation: Data cleansing, Power Query
+Communication: Data storytelling, presentations, team collaboration
+👩‍💻
 
 ## About Me
-I am studying an apprenticeship NVQ Level 4 Data Analyst course with BPP. This is helping me hone my skills to become a Data Analyst. I excel in data visualisation, data cleaning, crafting impactful dashboards, and using colours and graphics effectively with Microsoft Excel, MS Power BI, Canva, MS PowerPoint, and Figma. My expertise spans disability, accessibility, NHS, and football data. If you're looking to turn numbers into compelling visuals, explore my portfolio and connect with me at guy.orlov@gmail.com for assistance.
+As a detail-oriented Data Analyst, I specialise in transforming complex datasets into actionable insights. With expertise in tools such as Excel, Power BI, Tableau, and SQL, I excel in creating dashboards, reports, and data visualisations that drive informed decision-making. My projects include leveraging data cleansing, analysis, and modelling techniques to support accessibility initiatives and provide strategic insights for various industries. I’m passionate about using data storytelling to foster inclusivity and innovation.
 
 ## Education
 - NVQ Level 3, Data Technician Apprenticeship | BPP (_November 2023_)
@@ -11,8 +17,23 @@ I am studying an apprenticeship NVQ Level 4 Data Analyst course with BPP. This i
 - BSc., Computing Visualisation | Sheffield Hallam (_July 2009_)								       		
 
 ## Work Experience
-**Administration @ NHS (_April 2019 - Present_)**
-- blah
+- NHS England | National Overseas Sponsorship Administration Assistant
+April 2019 – Present
+Designed and managed dynamic dashboards using Excel and Power BI to streamline data reporting.
+Analysed and processed datasets, ensuring data accuracy and accessibility for internal stakeholders.
+Developed efficient workflows for document management and client correspondence.
+- Signapse Ltd | BSL Engagement Officer
+October 2022 – April 2023
+Utilised data collection and analysis to inform organisational strategies.
+Led focus groups to gather insights, employing data-driven approaches for effective decision-making.
+- Surdus Communication Ltd | Director
+October 2017 – June 2019
+Analysed budgets and financial data for Disabled Students Allowance (DSA) programs.
+Ensured compliance with quality assurance standards, utilising data to improve service delivery.
+- Sensorio Support Services Ltd | Managing Director
+February 2013 – November 2015
+Directed operations and developed tools to enhance client accessibility using data visualisation techniques.
+
 
 ## Projects
 ### The Dashboard focuses on the Economic inactivity of Disabled People
