@@ -17,28 +17,29 @@ As a detail-oriented Data Analyst, I specialise in transforming complex datasets
 - BSc., Computing Visualisation | Sheffield Hallam (_July 2009_)								       		
 
 ## Work Experience
-- NHS England | National Overseas Sponsorship Administration Assistant
-April 2019 – Present
+- NHS England | National Overseas Sponsorship Administration Assistant |
+April 2019 – Present |
 Designed and managed dynamic dashboards using Excel and Power BI to streamline data reporting.
 Analysed and processed datasets, ensuring data accuracy and accessibility for internal stakeholders.
 Developed efficient workflows for document management and client correspondence.
-- Signapse Ltd | BSL Engagement Officer
-October 2022 – April 2023
+
+- Signapse Ltd | BSL Engagement Officer 
+October 2022 – April 2023 |
 Utilised data collection and analysis to inform organisational strategies.
 Led focus groups to gather insights, employing data-driven approaches for effective decision-making.
-- Surdus Communication Ltd | Director
-October 2017 – June 2019
+
+- Surdus Communication Ltd | Director |
+October 2017 – June 2019 |
 Analysed budgets and financial data for Disabled Students Allowance (DSA) programs.
 Ensured compliance with quality assurance standards, utilising data to improve service delivery.
-- Sensorio Support Services Ltd | Managing Director
-February 2013 – November 2015
+
+- Sensorio Support Services Ltd | Managing Director |
+February 2013 – November 2015 |
 Directed operations and developed tools to enhance client accessibility using data visualisation techniques.
 
 
 ## Projects
 ### The Dashboard focuses on the Economic inactivity of Disabled People
-[Publication]([https://www.guyorlov.com/#job])
-
 I want to shift the focus towards economic inactivity and draw comparisons between disabled and non-disabled people. This subject is often considered **taboo**, but the insights from these reports could greatly benefit educators and training providers.
 The goal is to help them understand how to support disabled individuals in returning to work, provide motivation, and serve as role models. The impact of these factors can vary depending on the individual’s region within the UK.
 
